@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Latest Hindi Shayaries 2022",
+    "slug": "Shayari_App",
+    "version": "1.0.8",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "orientation": "portrait",
+    "icon": "./Images/Main_Icon.png",
+    "splash": {
+      "image": "./Images/Main_Icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "plugins":["@react-native-firebase/app"],
+   
+    "android": {
+      "googleServicesFile":"./google-services.json",
+      "package": "com.Shayari_App.Developer",
+      "versionCode":8,
+      "permissions":["INTERNET","VIBRATE","RECEIVE_BOOT_COMPLETED"],
+      "adaptiveIcon": {
+        "foregroundImage": "./Images/Main_Icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    }
+  }
+}

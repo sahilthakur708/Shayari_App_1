@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "373084111403",
+    "project_id": "shayari-app-test",
+    "storage_bucket": "shayari-app-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373084111403:android:a5e8bd0ac22c64a6fee06e",
+        "android_client_info": {
+          "package_name": "com.Shayari_App.Developer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373084111403-6imgbffmjr30a2ssavcctk33pfa0b8c2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Shayari_App.Developer",
+            "certificate_hash": "6a334b99875c65c65dda94bfaf71307781cb4e16"
+          }
+        },
+        {
+          "client_id": "373084111403-a5cr76le0eov4672ci18pvm5v4ddkkq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYldRFfor5Er7NBVFvXHi8u6Y04yHlo_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373084111403-a5cr76le0eov4672ci18pvm5v4ddkkq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4580624394270467~1330625512"
+    }
+  ],
+  "configuration_version": "1"
+}
